@@ -37,5 +37,4 @@ Menyelesaikan konflik dan menjaga konsistensi repository
 
 # 👤 Author
 
-Hamdan Arif Darojat
-Full Stack Developer Student
+Hamdan Arif Darojat | 18037
